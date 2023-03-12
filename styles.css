@@ -1,0 +1,78 @@
+p {
+    margin-left: 45%;
+}
+
+#Message {
+    color: rgb(241, 241, 241);
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 45%;
+}
+
+/* The buttons */
+input[type="button"] {
+    color: rgb(41, 41, 41);
+    border-radius: 20px;
+    text-align: center;
+    margin-left: 47%;
+    padding: 0 25px;    
+}
+
+input[type="submit"]:hover {
+    cursor: pointer;
+}
+
+#update-button {
+    color: rgb(41, 41, 41);
+    border-radius: 20px;
+    text-align: center;
+    margin-left: 47%;
+    padding: 0 25px;    
+    /* CSS rules for the update button */
+    }
+    
+    #add-new-items-button {
+    color: rgb(41, 41, 41);
+    border-radius: 20px;
+    text-align: center;
+    margin-left: 47%;
+    padding: 20px;    
+    /* CSS rules for the Add new button */
+    }
+
+#tc {
+    color: rgb(37, 37, 37);
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    font-size: 16px;
+}
+
+/* Last part of the To-Do list */
+.important-urgent {
+    background-color: rgb(37, 37, 37);
+    color: white;
+}
+
+.important-not-urgent {
+    background-color: rgb(37, 37, 37);
+    color: white;
+}
+
+.not-important-urgent {
+    background-color: rgb(37, 37, 37);
+    color: white;
+}
+
+.not-important-not-urgent {
+    background-color: rgb(37, 37, 37);
+    color: white;
+}
+
